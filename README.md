@@ -6,16 +6,17 @@
 
 ## part1：基础
 
-1. [函数模板（Function Template）](https://github.com/downdemo/Cpp-Templates-2ed/tree/master/content/Part1%20%E5%9F%BA%E7%A1%80/01%20%E5%87%BD%E6%95%B0%E6%A8%A1%E6%9D%BF.md)
-2. [类模板（Class Template）](https://github.com/downdemo/Cpp-Templates-2ed/tree/master/content/Part1%20%E5%9F%BA%E7%A1%80/02%20%E7%B1%BB%E6%A8%A1%E6%9D%BF.md)
-3. [非类型模板参数（Nontype Template Parameter）](https://github.com/downdemo/Cpp-Templates-2ed/tree/master/content/Part1%20%E5%9F%BA%E7%A1%80/03%20%E9%9D%9E%E7%B1%BB%E5%9E%8B%E6%A8%A1%E6%9D%BF%E5%8F%82%E6%95%B0.md)
-4. [可变参数模板（Variadic Template）](https://github.com/downdemo/Cpp-Templates-2ed/tree/master/content/Part1%20%E5%9F%BA%E7%A1%80/04%20%E5%8F%AF%E5%8F%98%E5%8F%82%E6%95%B0%E6%A8%A1%E6%9D%BF.md)
-5. [Tricky Basic](https://github.com/downdemo/Cpp-Templates-2ed/tree/master/content/Part1%20%E5%9F%BA%E7%A1%80/05%20Tricky%20Basic.md)
-6. [移动语义与enable_if](https://github.com/downdemo/Cpp-Templates-2ed/tree/master/content/Part1%20%E5%9F%BA%E7%A1%80/06%20%E7%A7%BB%E5%8A%A8%E8%AF%AD%E4%B9%89%E4%B8%8Eenable_if.md)
-7. [按值传递与按引用传递（By Value or by Reference?）](https://github.com/downdemo/Cpp-Templates-2ed/tree/master/content/Part1%20%E5%9F%BA%E7%A1%80/07%20%E6%8C%89%E5%80%BC%E4%BC%A0%E9%80%92%E4%B8%8E%E6%8C%89%E5%BC%95%E7%94%A8%E4%BC%A0%E9%80%92.md)
-8. [编译期编程（Compile-Time Programming）](https://github.com/downdemo/Cpp-Templates-2ed/tree/master/content/Part1%20%E5%9F%BA%E7%A1%80/08%20%E7%BC%96%E8%AF%91%E6%9C%9F%E7%BC%96%E7%A8%8B.md)
-9. [模板实战（Using Templates in Practice）](https://github.com/downdemo/Cpp-Templates-2ed/tree/master/content/Part1%20%E5%9F%BA%E7%A1%80/09%20%E6%A8%A1%E6%9D%BF%E5%AE%9E%E6%88%98.md)
-10. [泛型库（Generic Library）](https://github.com/downdemo/Cpp-Templates-2ed/tree/master/content/Part1%20%E5%9F%BA%E7%A1%80/10%20%E6%B3%9B%E5%9E%8B%E5%BA%93.md)
+1. [函数模板（Function Template）](https://github.com/Andijenny/Cpp-Templates-2ed/blob/master/content/Part1%20%E5%9F%BA%E7%A1%80/01%20%E5%87%BD%E6%95%B0%E6%A8%A1%E6%9D%BF.md)
+2. [类模板（Class Template）](https://github.com/Andijenny/Cpp-Templates-2ed/blob/master/content/Part1%20%E5%9F%BA%E7%A1%80/02%20%E7%B1%BB%E6%A8%A1%E6%9D%BF.md)
+3. [非类型模板参数（Nontype Template Parameter）](https://github.com/Andijenny/Cpp-Templates-2ed/blob/master/content/Part1%20%E5%9F%BA%E7%A1%80/03%20%E9%9D%9E%E7%B1%BB%E5%9E%8B%E6%A8%A1%E6%9D%BF%E5%8F%82%E6%95%B0.md)
+4. [可变参数模板（Variadic Template）](https://github.com/Andijenny/Cpp-Templates-2ed/blob/master/content/Part1%20%E5%9F%BA%E7%A1%80/04%20%E5%8F%AF%E5%8F%98%E5%8F%82%E6%95%B0%E6%A8%A1%E6%9D%BF.md)
+5. [Tricky Basic](https://github.com/Andijenny/Cpp-Templates-2ed/blob/master/content/Part1%20%E5%9F%BA%E7%A1%80/05%20Tricky%20Basic.md)
+6. [移动语义与enable_if](https://github.com/Andijenny/Cpp-Templates-2ed/blob/master/content/Part1%20%E5%9F%BA%E7%A1%80/06%20%E7%A7%BB%E5%8A%A8%E8%AF%AD%E4%B9%89%E4%B8%8Eenable_if.md)
+7. [按值传递与按引用传递（By Value or by Reference?）](https://github.com/Andijenny/Cpp-Templates-2ed/blob/master/content/Part1%20%E5%9F%BA%E7%A1%80/07%20%E6%8C%89%E5%80%BC%E4%BC%A0%E9%80%92%E4%B8%8E%E6%8C%89%E5%BC%95%E7%94%A8%E4%BC%A0%E9%80%92.md)
+8. [编译期编程（Compile-Time Programming）](https://github.com/Andijenny/Cpp-Templates-2ed/blob/master/content/Part1%20%E5%9F%BA%E7%A1%80/08%20%E7%BC%96%E8%AF%91%E6%9C%9F%E7%BC%96%E7%A8%8B.md)
+9. [模板实战（Using Templates in Practice）](https://github.com/Andijenny/Cpp-Templates-2ed/blob/master/content/Part1%20%E5%9F%BA%E7%A1%80/09%20%E6%A8%A1%E6%9D%BF%E5%AE%9E%E6%88%98.md)
+10. [基本模板术语（Basic Template Terminology）](https://github.com/Andijenny/Cpp-Templates-2ed/blob/master/content/Part1%20%E5%9F%BA%E7%A1%80/10%20%E5%9F%BA%E6%9C%AC%E6%A8%A1%E6%9D%BF%E6%9C%AF%E8%AF%AD.md)
+11. [泛型库（Generic Library）](https://github.com/Andijenny/Cpp-Templates-2ed/blob/master/content/Part1%20%E5%9F%BA%E7%A1%80/11%20%E6%B3%9B%E5%9E%8B%E5%BA%93.md)
 
 ## part2：深入模板
 
